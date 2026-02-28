@@ -1,3 +1,19 @@
-# .gitignore
+# Python
+__pycache__/
+*.pyc
+.venv/
 
-Specifies intentionally untracked files to ignore.
+# Node
+node_modules/
+
+# Environment
+.env
+
+# Build and output
+output/
+engine/out/
+engine/.cache/
+
+# OS / editor
+.DS_Store
+.vscode/
