@@ -1,0 +1,248 @@
+{
+  "id": "video_027",
+  "title": "Why Is Paperwork Never Ending?",
+  "template": "explainer",
+  "fps": 30,
+  "width": 1080,
+  "height": 1920,
+  "category": "EVERYDAY SYSTEMS",
+  "accentColor": "#38bdf8",
+  "scenes": [
+    {
+      "text": "Why Is Paperwork Never Ending?",
+      "subtext": "A systems explainer in 2 minutes.",
+      "duration": 300,
+      "visual": "crowd",
+      "category": "EVERYDAY SYSTEMS",
+      "accentColor": "#38bdf8",
+      "assetTags": [
+        "home",
+        "cart",
+        "transport",
+        "city_street",
+        "crowd_group_16"
+      ],
+      "crowdCount": 13
+    },
+    {
+      "text": "Hook",
+      "subtext": "Why this matters in daily life: Why Is Paperwork Never Ending?",
+      "duration": 300,
+      "visual": "icons",
+      "category": "EVERYDAY SYSTEMS",
+      "accentColor": "#38bdf8",
+      "assetTags": [
+        "home",
+        "cart",
+        "transport",
+        "city_street",
+        "crowd_group_16"
+      ],
+      "icons": [
+        "home",
+        "cart",
+        "transport",
+        "bank",
+        "factory",
+        "home"
+      ]
+    },
+    {
+      "text": "System boundary",
+      "subtext": "System boundary for topic: Why Is Paperwork Never Ending?",
+      "duration": 300,
+      "visual": "network",
+      "category": "EVERYDAY SYSTEMS",
+      "accentColor": "#38bdf8",
+      "assetTags": [
+        "home",
+        "cart",
+        "transport",
+        "city_street",
+        "crowd_group_16"
+      ],
+      "networkNodes": [
+        "State",
+        "Market",
+        "Labor",
+        "Capital",
+        "Public"
+      ]
+    },
+    {
+      "text": "Cause layer 1",
+      "subtext": "Cause layer 1 for topic: Why Is Paperwork Never Ending?",
+      "duration": 300,
+      "visual": "bars",
+      "category": "EVERYDAY SYSTEMS",
+      "accentColor": "#38bdf8",
+      "assetTags": [
+        "home",
+        "cart",
+        "transport",
+        "city_street",
+        "crowd_group_16"
+      ],
+      "barValues": [
+        22,
+        30,
+        40,
+        51,
+        62
+      ]
+    },
+    {
+      "text": "Cause layer 2",
+      "subtext": "Cause layer 2 for topic: Why Is Paperwork Never Ending?",
+      "duration": 300,
+      "visual": "flow",
+      "category": "EVERYDAY SYSTEMS",
+      "accentColor": "#38bdf8",
+      "assetTags": [
+        "home",
+        "cart",
+        "transport",
+        "city_street",
+        "crowd_group_16"
+      ],
+      "flowLabels": [
+        "Trigger",
+        "Mechanism",
+        "Outcome"
+      ]
+    },
+    {
+      "text": "Cause layer 3",
+      "subtext": "Cause layer 3 for topic: Why Is Paperwork Never Ending?",
+      "duration": 300,
+      "visual": "network",
+      "category": "EVERYDAY SYSTEMS",
+      "accentColor": "#38bdf8",
+      "assetTags": [
+        "home",
+        "cart",
+        "transport",
+        "city_street",
+        "crowd_group_16"
+      ],
+      "networkNodes": [
+        "Policy",
+        "Price",
+        "Behavior",
+        "Risk",
+        "Feedback"
+      ]
+    },
+    {
+      "text": "Data lens",
+      "subtext": "Data lens for topic: Why Is Paperwork Never Ending?",
+      "duration": 300,
+      "visual": "bars",
+      "category": "EVERYDAY SYSTEMS",
+      "accentColor": "#38bdf8",
+      "assetTags": [
+        "home",
+        "cart",
+        "transport",
+        "city_street",
+        "crowd_group_16"
+      ],
+      "barValues": [
+        25,
+        33,
+        43,
+        54,
+        65
+      ]
+    },
+    {
+      "text": "Real world scene",
+      "subtext": "Real world scene for topic: Why Is Paperwork Never Ending?",
+      "duration": 300,
+      "visual": "city",
+      "category": "EVERYDAY SYSTEMS",
+      "accentColor": "#38bdf8",
+      "assetTags": [
+        "home",
+        "cart",
+        "transport",
+        "city_street",
+        "crowd_group_16"
+      ]
+    },
+    {
+      "text": "Ecology/externalities",
+      "subtext": "Ecology/externalities for topic: Why Is Paperwork Never Ending?",
+      "duration": 300,
+      "visual": "animals",
+      "category": "EVERYDAY SYSTEMS",
+      "accentColor": "#38bdf8",
+      "assetTags": [
+        "home",
+        "cart",
+        "transport",
+        "city_street",
+        "crowd_group_16"
+      ],
+      "animals": [
+        "bird",
+        "fish",
+        "bee"
+      ]
+    },
+    {
+      "text": "Macro trend",
+      "subtext": "Macro trend for topic: Why Is Paperwork Never Ending?",
+      "duration": 300,
+      "visual": "landscape",
+      "category": "EVERYDAY SYSTEMS",
+      "accentColor": "#38bdf8",
+      "assetTags": [
+        "home",
+        "cart",
+        "transport",
+        "city_street",
+        "crowd_group_16"
+      ]
+    },
+    {
+      "text": "Actionable takeaway",
+      "subtext": "Actionable takeaway for topic: Why Is Paperwork Never Ending?",
+      "duration": 300,
+      "visual": "icons",
+      "category": "EVERYDAY SYSTEMS",
+      "accentColor": "#38bdf8",
+      "assetTags": [
+        "home",
+        "cart",
+        "transport",
+        "city_street",
+        "crowd_group_16"
+      ],
+      "icons": [
+        "home",
+        "cart",
+        "transport",
+        "bank",
+        "factory",
+        "home"
+      ]
+    },
+    {
+      "text": "Closing",
+      "subtext": "Understand systems, predict outcomes, act early.",
+      "duration": 300,
+      "visual": "crowd",
+      "category": "EVERYDAY SYSTEMS",
+      "accentColor": "#38bdf8",
+      "assetTags": [
+        "home",
+        "cart",
+        "transport",
+        "city_street",
+        "crowd_group_16"
+      ],
+      "crowdCount": 13
+    }
+  ]
+}

@@ -1,0 +1,248 @@
+{
+  "id": "video_483",
+  "title": "How Technological Acceleration Feels Unstable",
+  "template": "explainer",
+  "fps": 30,
+  "width": 1080,
+  "height": 1920,
+  "category": "FUTURE SYSTEMS",
+  "accentColor": "#34d399",
+  "scenes": [
+    {
+      "text": "How Technological Acceleration Feels Unstable",
+      "subtext": "A systems explainer in 2 minutes.",
+      "duration": 300,
+      "visual": "crowd",
+      "category": "FUTURE SYSTEMS",
+      "accentColor": "#34d399",
+      "assetTags": [
+        "ai",
+        "cloud",
+        "landscape_sunrise",
+        "animals",
+        "network"
+      ],
+      "crowdCount": 13
+    },
+    {
+      "text": "Hook",
+      "subtext": "Why this matters in daily life: How Technological Acceleration Feels Unstable",
+      "duration": 300,
+      "visual": "icons",
+      "category": "FUTURE SYSTEMS",
+      "accentColor": "#34d399",
+      "assetTags": [
+        "ai",
+        "cloud",
+        "landscape_sunrise",
+        "animals",
+        "network"
+      ],
+      "icons": [
+        "ai",
+        "cloud",
+        "landscape_sunrise",
+        "bank",
+        "factory",
+        "home"
+      ]
+    },
+    {
+      "text": "System boundary",
+      "subtext": "System boundary for topic: How Technological Acceleration Feels Unstable",
+      "duration": 300,
+      "visual": "network",
+      "category": "FUTURE SYSTEMS",
+      "accentColor": "#34d399",
+      "assetTags": [
+        "ai",
+        "cloud",
+        "landscape_sunrise",
+        "animals",
+        "network"
+      ],
+      "networkNodes": [
+        "State",
+        "Market",
+        "Labor",
+        "Capital",
+        "Public"
+      ]
+    },
+    {
+      "text": "Cause layer 1",
+      "subtext": "Cause layer 1 for topic: How Technological Acceleration Feels Unstable",
+      "duration": 300,
+      "visual": "bars",
+      "category": "FUTURE SYSTEMS",
+      "accentColor": "#34d399",
+      "assetTags": [
+        "ai",
+        "cloud",
+        "landscape_sunrise",
+        "animals",
+        "network"
+      ],
+      "barValues": [
+        28,
+        36,
+        46,
+        57,
+        68
+      ]
+    },
+    {
+      "text": "Cause layer 2",
+      "subtext": "Cause layer 2 for topic: How Technological Acceleration Feels Unstable",
+      "duration": 300,
+      "visual": "flow",
+      "category": "FUTURE SYSTEMS",
+      "accentColor": "#34d399",
+      "assetTags": [
+        "ai",
+        "cloud",
+        "landscape_sunrise",
+        "animals",
+        "network"
+      ],
+      "flowLabels": [
+        "Trigger",
+        "Mechanism",
+        "Outcome"
+      ]
+    },
+    {
+      "text": "Cause layer 3",
+      "subtext": "Cause layer 3 for topic: How Technological Acceleration Feels Unstable",
+      "duration": 300,
+      "visual": "network",
+      "category": "FUTURE SYSTEMS",
+      "accentColor": "#34d399",
+      "assetTags": [
+        "ai",
+        "cloud",
+        "landscape_sunrise",
+        "animals",
+        "network"
+      ],
+      "networkNodes": [
+        "Policy",
+        "Price",
+        "Behavior",
+        "Risk",
+        "Feedback"
+      ]
+    },
+    {
+      "text": "Data lens",
+      "subtext": "Data lens for topic: How Technological Acceleration Feels Unstable",
+      "duration": 300,
+      "visual": "bars",
+      "category": "FUTURE SYSTEMS",
+      "accentColor": "#34d399",
+      "assetTags": [
+        "ai",
+        "cloud",
+        "landscape_sunrise",
+        "animals",
+        "network"
+      ],
+      "barValues": [
+        31,
+        39,
+        49,
+        60,
+        71
+      ]
+    },
+    {
+      "text": "Real world scene",
+      "subtext": "Real world scene for topic: How Technological Acceleration Feels Unstable",
+      "duration": 300,
+      "visual": "city",
+      "category": "FUTURE SYSTEMS",
+      "accentColor": "#34d399",
+      "assetTags": [
+        "ai",
+        "cloud",
+        "landscape_sunrise",
+        "animals",
+        "network"
+      ]
+    },
+    {
+      "text": "Ecology/externalities",
+      "subtext": "Ecology/externalities for topic: How Technological Acceleration Feels Unstable",
+      "duration": 300,
+      "visual": "animals",
+      "category": "FUTURE SYSTEMS",
+      "accentColor": "#34d399",
+      "assetTags": [
+        "ai",
+        "cloud",
+        "landscape_sunrise",
+        "animals",
+        "network"
+      ],
+      "animals": [
+        "bird",
+        "turtle",
+        "deer"
+      ]
+    },
+    {
+      "text": "Macro trend",
+      "subtext": "Macro trend for topic: How Technological Acceleration Feels Unstable",
+      "duration": 300,
+      "visual": "landscape",
+      "category": "FUTURE SYSTEMS",
+      "accentColor": "#34d399",
+      "assetTags": [
+        "ai",
+        "cloud",
+        "landscape_sunrise",
+        "animals",
+        "network"
+      ]
+    },
+    {
+      "text": "Actionable takeaway",
+      "subtext": "Actionable takeaway for topic: How Technological Acceleration Feels Unstable",
+      "duration": 300,
+      "visual": "icons",
+      "category": "FUTURE SYSTEMS",
+      "accentColor": "#34d399",
+      "assetTags": [
+        "ai",
+        "cloud",
+        "landscape_sunrise",
+        "animals",
+        "network"
+      ],
+      "icons": [
+        "ai",
+        "cloud",
+        "landscape_sunrise",
+        "bank",
+        "factory",
+        "home"
+      ]
+    },
+    {
+      "text": "Closing",
+      "subtext": "Understand systems, predict outcomes, act early.",
+      "duration": 300,
+      "visual": "crowd",
+      "category": "FUTURE SYSTEMS",
+      "accentColor": "#34d399",
+      "assetTags": [
+        "ai",
+        "cloud",
+        "landscape_sunrise",
+        "animals",
+        "network"
+      ],
+      "crowdCount": 13
+    }
+  ]
+}

@@ -1,0 +1,248 @@
+{
+  "id": "video_181",
+  "title": "How Recessions Reset Systems",
+  "template": "protest",
+  "fps": 30,
+  "width": 1080,
+  "height": 1920,
+  "category": "MONEY & ECONOMICS",
+  "accentColor": "#22d3ee",
+  "scenes": [
+    {
+      "text": "How Recessions Reset Systems",
+      "subtext": "A systems explainer in 2 minutes.",
+      "duration": 300,
+      "visual": "crowd",
+      "category": "MONEY & ECONOMICS",
+      "accentColor": "#22d3ee",
+      "assetTags": [
+        "bank",
+        "coin",
+        "factory",
+        "bars",
+        "network"
+      ],
+      "crowdCount": 15
+    },
+    {
+      "text": "Hook",
+      "subtext": "Why this matters in daily life: How Recessions Reset Systems",
+      "duration": 300,
+      "visual": "icons",
+      "category": "MONEY & ECONOMICS",
+      "accentColor": "#22d3ee",
+      "assetTags": [
+        "bank",
+        "coin",
+        "factory",
+        "bars",
+        "network"
+      ],
+      "icons": [
+        "bank",
+        "coin",
+        "factory",
+        "bank",
+        "factory",
+        "home"
+      ]
+    },
+    {
+      "text": "System boundary",
+      "subtext": "System boundary for topic: How Recessions Reset Systems",
+      "duration": 300,
+      "visual": "network",
+      "category": "MONEY & ECONOMICS",
+      "accentColor": "#22d3ee",
+      "assetTags": [
+        "bank",
+        "coin",
+        "factory",
+        "bars",
+        "network"
+      ],
+      "networkNodes": [
+        "State",
+        "Market",
+        "Labor",
+        "Capital",
+        "Public"
+      ]
+    },
+    {
+      "text": "Cause layer 1",
+      "subtext": "Cause layer 1 for topic: How Recessions Reset Systems",
+      "duration": 300,
+      "visual": "bars",
+      "category": "MONEY & ECONOMICS",
+      "accentColor": "#22d3ee",
+      "assetTags": [
+        "bank",
+        "coin",
+        "factory",
+        "bars",
+        "network"
+      ],
+      "barValues": [
+        23,
+        31,
+        41,
+        52,
+        63
+      ]
+    },
+    {
+      "text": "Cause layer 2",
+      "subtext": "Cause layer 2 for topic: How Recessions Reset Systems",
+      "duration": 300,
+      "visual": "flow",
+      "category": "MONEY & ECONOMICS",
+      "accentColor": "#22d3ee",
+      "assetTags": [
+        "bank",
+        "coin",
+        "factory",
+        "bars",
+        "network"
+      ],
+      "flowLabels": [
+        "Trigger",
+        "Mechanism",
+        "Outcome"
+      ]
+    },
+    {
+      "text": "Cause layer 3",
+      "subtext": "Cause layer 3 for topic: How Recessions Reset Systems",
+      "duration": 300,
+      "visual": "network",
+      "category": "MONEY & ECONOMICS",
+      "accentColor": "#22d3ee",
+      "assetTags": [
+        "bank",
+        "coin",
+        "factory",
+        "bars",
+        "network"
+      ],
+      "networkNodes": [
+        "Policy",
+        "Price",
+        "Behavior",
+        "Risk",
+        "Feedback"
+      ]
+    },
+    {
+      "text": "Data lens",
+      "subtext": "Data lens for topic: How Recessions Reset Systems",
+      "duration": 300,
+      "visual": "bars",
+      "category": "MONEY & ECONOMICS",
+      "accentColor": "#22d3ee",
+      "assetTags": [
+        "bank",
+        "coin",
+        "factory",
+        "bars",
+        "network"
+      ],
+      "barValues": [
+        26,
+        34,
+        44,
+        55,
+        66
+      ]
+    },
+    {
+      "text": "Real world scene",
+      "subtext": "Real world scene for topic: How Recessions Reset Systems",
+      "duration": 300,
+      "visual": "city",
+      "category": "MONEY & ECONOMICS",
+      "accentColor": "#22d3ee",
+      "assetTags": [
+        "bank",
+        "coin",
+        "factory",
+        "bars",
+        "network"
+      ]
+    },
+    {
+      "text": "Ecology/externalities",
+      "subtext": "Ecology/externalities for topic: How Recessions Reset Systems",
+      "duration": 300,
+      "visual": "animals",
+      "category": "MONEY & ECONOMICS",
+      "accentColor": "#22d3ee",
+      "assetTags": [
+        "bank",
+        "coin",
+        "factory",
+        "bars",
+        "network"
+      ],
+      "animals": [
+        "bird",
+        "fish",
+        "bee"
+      ]
+    },
+    {
+      "text": "Macro trend",
+      "subtext": "Macro trend for topic: How Recessions Reset Systems",
+      "duration": 300,
+      "visual": "landscape",
+      "category": "MONEY & ECONOMICS",
+      "accentColor": "#22d3ee",
+      "assetTags": [
+        "bank",
+        "coin",
+        "factory",
+        "bars",
+        "network"
+      ]
+    },
+    {
+      "text": "Actionable takeaway",
+      "subtext": "Actionable takeaway for topic: How Recessions Reset Systems",
+      "duration": 300,
+      "visual": "icons",
+      "category": "MONEY & ECONOMICS",
+      "accentColor": "#22d3ee",
+      "assetTags": [
+        "bank",
+        "coin",
+        "factory",
+        "bars",
+        "network"
+      ],
+      "icons": [
+        "bank",
+        "coin",
+        "factory",
+        "bank",
+        "factory",
+        "home"
+      ]
+    },
+    {
+      "text": "Closing",
+      "subtext": "Understand systems, predict outcomes, act early.",
+      "duration": 300,
+      "visual": "crowd",
+      "category": "MONEY & ECONOMICS",
+      "accentColor": "#22d3ee",
+      "assetTags": [
+        "bank",
+        "coin",
+        "factory",
+        "bars",
+        "network"
+      ],
+      "crowdCount": 15
+    }
+  ]
+}
