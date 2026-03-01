@@ -1,0 +1,248 @@
+{
+  "id": "video_187",
+  "title": "How Automation Redirects Capital",
+  "template": "protest",
+  "fps": 30,
+  "width": 1080,
+  "height": 1920,
+  "category": "MONEY & ECONOMICS",
+  "accentColor": "#22d3ee",
+  "scenes": [
+    {
+      "text": "How Automation Redirects Capital",
+      "subtext": "A systems explainer in 2 minutes.",
+      "duration": 300,
+      "visual": "crowd",
+      "category": "MONEY & ECONOMICS",
+      "accentColor": "#22d3ee",
+      "assetTags": [
+        "bank",
+        "coin",
+        "factory",
+        "bars",
+        "network"
+      ],
+      "crowdCount": 13
+    },
+    {
+      "text": "Hook",
+      "subtext": "Why this matters in daily life: How Automation Redirects Capital",
+      "duration": 300,
+      "visual": "icons",
+      "category": "MONEY & ECONOMICS",
+      "accentColor": "#22d3ee",
+      "assetTags": [
+        "bank",
+        "coin",
+        "factory",
+        "bars",
+        "network"
+      ],
+      "icons": [
+        "bank",
+        "coin",
+        "factory",
+        "bank",
+        "factory",
+        "home"
+      ]
+    },
+    {
+      "text": "System boundary",
+      "subtext": "System boundary for topic: How Automation Redirects Capital",
+      "duration": 300,
+      "visual": "network",
+      "category": "MONEY & ECONOMICS",
+      "accentColor": "#22d3ee",
+      "assetTags": [
+        "bank",
+        "coin",
+        "factory",
+        "bars",
+        "network"
+      ],
+      "networkNodes": [
+        "State",
+        "Market",
+        "Labor",
+        "Capital",
+        "Public"
+      ]
+    },
+    {
+      "text": "Cause layer 1",
+      "subtext": "Cause layer 1 for topic: How Automation Redirects Capital",
+      "duration": 300,
+      "visual": "bars",
+      "category": "MONEY & ECONOMICS",
+      "accentColor": "#22d3ee",
+      "assetTags": [
+        "bank",
+        "coin",
+        "factory",
+        "bars",
+        "network"
+      ],
+      "barValues": [
+        29,
+        37,
+        47,
+        58,
+        69
+      ]
+    },
+    {
+      "text": "Cause layer 2",
+      "subtext": "Cause layer 2 for topic: How Automation Redirects Capital",
+      "duration": 300,
+      "visual": "flow",
+      "category": "MONEY & ECONOMICS",
+      "accentColor": "#22d3ee",
+      "assetTags": [
+        "bank",
+        "coin",
+        "factory",
+        "bars",
+        "network"
+      ],
+      "flowLabels": [
+        "Trigger",
+        "Mechanism",
+        "Outcome"
+      ]
+    },
+    {
+      "text": "Cause layer 3",
+      "subtext": "Cause layer 3 for topic: How Automation Redirects Capital",
+      "duration": 300,
+      "visual": "network",
+      "category": "MONEY & ECONOMICS",
+      "accentColor": "#22d3ee",
+      "assetTags": [
+        "bank",
+        "coin",
+        "factory",
+        "bars",
+        "network"
+      ],
+      "networkNodes": [
+        "Policy",
+        "Price",
+        "Behavior",
+        "Risk",
+        "Feedback"
+      ]
+    },
+    {
+      "text": "Data lens",
+      "subtext": "Data lens for topic: How Automation Redirects Capital",
+      "duration": 300,
+      "visual": "bars",
+      "category": "MONEY & ECONOMICS",
+      "accentColor": "#22d3ee",
+      "assetTags": [
+        "bank",
+        "coin",
+        "factory",
+        "bars",
+        "network"
+      ],
+      "barValues": [
+        32,
+        40,
+        50,
+        61,
+        72
+      ]
+    },
+    {
+      "text": "Real world scene",
+      "subtext": "Real world scene for topic: How Automation Redirects Capital",
+      "duration": 300,
+      "visual": "city",
+      "category": "MONEY & ECONOMICS",
+      "accentColor": "#22d3ee",
+      "assetTags": [
+        "bank",
+        "coin",
+        "factory",
+        "bars",
+        "network"
+      ]
+    },
+    {
+      "text": "Ecology/externalities",
+      "subtext": "Ecology/externalities for topic: How Automation Redirects Capital",
+      "duration": 300,
+      "visual": "animals",
+      "category": "MONEY & ECONOMICS",
+      "accentColor": "#22d3ee",
+      "assetTags": [
+        "bank",
+        "coin",
+        "factory",
+        "bars",
+        "network"
+      ],
+      "animals": [
+        "bird",
+        "fish",
+        "bee"
+      ]
+    },
+    {
+      "text": "Macro trend",
+      "subtext": "Macro trend for topic: How Automation Redirects Capital",
+      "duration": 300,
+      "visual": "landscape",
+      "category": "MONEY & ECONOMICS",
+      "accentColor": "#22d3ee",
+      "assetTags": [
+        "bank",
+        "coin",
+        "factory",
+        "bars",
+        "network"
+      ]
+    },
+    {
+      "text": "Actionable takeaway",
+      "subtext": "Actionable takeaway for topic: How Automation Redirects Capital",
+      "duration": 300,
+      "visual": "icons",
+      "category": "MONEY & ECONOMICS",
+      "accentColor": "#22d3ee",
+      "assetTags": [
+        "bank",
+        "coin",
+        "factory",
+        "bars",
+        "network"
+      ],
+      "icons": [
+        "bank",
+        "coin",
+        "factory",
+        "bank",
+        "factory",
+        "home"
+      ]
+    },
+    {
+      "text": "Closing",
+      "subtext": "Understand systems, predict outcomes, act early.",
+      "duration": 300,
+      "visual": "crowd",
+      "category": "MONEY & ECONOMICS",
+      "accentColor": "#22d3ee",
+      "assetTags": [
+        "bank",
+        "coin",
+        "factory",
+        "bars",
+        "network"
+      ],
+      "crowdCount": 13
+    }
+  ]
+}
