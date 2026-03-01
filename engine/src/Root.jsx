@@ -1,7 +1,7 @@
 import React from 'react';
 import { Composition } from 'remotion';
 import videoData from '../../data/video_001.json';
-import { SceneManager } from './core/SceneManager.jsx';
+import { TemplateLoader } from './core/TemplateLoader.jsx';
 
 export const RemotionRoot = () => {
   const totalDuration = videoData.scenes.reduce(
@@ -13,12 +13,15 @@ export const RemotionRoot = () => {
     <>
       <Composition
         id="MainComposition"
-        component={SceneManager}
+        component={TemplateLoader}
         durationInFrames={totalDuration}
         fps={videoData.fps}
         width={videoData.width}
         height={videoData.height}
-        defaultProps={{ scenes: videoData.scenes }}
+        defaultProps={{
+          template: videoData.template,
+          scenes: videoData.scenes
+        }}
       />
     </>
   );

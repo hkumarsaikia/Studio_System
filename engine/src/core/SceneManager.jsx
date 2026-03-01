@@ -2,7 +2,7 @@ import React from 'react';
 import { Sequence } from 'remotion';
 import { SceneBlock } from '../scenes/SceneBlock.jsx';
 
-export const SceneManager = ({ scenes }) => {
+export const SceneManager = ({ scenes, theme }) => {
   let startFrame = 0;
 
   return (
@@ -14,7 +14,7 @@ export const SceneManager = ({ scenes }) => {
             from={startFrame}
             durationInFrames={scene.duration}
           >
-            <SceneBlock scene={scene} />
+            <SceneBlock scene={scene} themeName={theme} />
           </Sequence>
         );
 
