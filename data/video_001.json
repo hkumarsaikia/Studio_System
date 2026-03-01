@@ -1,0 +1,19 @@
+{
+  "title": "Test Video",
+  "template": "shorts",
+  "fps": 30,
+  "width": 1080,
+  "height": 1920,
+  "scenes": [
+    {
+      "text": "Why Is Everything Getting More Expensive?",
+      "audio": "scene1.mp3",
+      "duration": 300
+    },
+    {
+      "text": "Because systems respond to incentives.",
+      "audio": "scene2.mp3",
+      "duration": 300
+    }
+  ]
+}

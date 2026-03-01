@@ -1,0 +1,25 @@
+# Node
+node_modules/
+engine/node_modules/
+
+# Remotion
+.remotion/
+.cache/
+engine/.remotion/
+engine/.cache/
+
+# Output files
+output/
+engine/out.mp4
+*.mp4
+
+# Python
+venv/
+__pycache__/
+
+# Environment
+.env
+
+# OS
+.DS_Store
+Thumbs.db
