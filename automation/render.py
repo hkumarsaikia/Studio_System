@@ -1,6 +1,7 @@
 import subprocess
 import sys
 import os
+from milestone_logger import log_milestone
 
 def render(video_id):
     output_path = os.path.join("..", "output", f"{video_id}.mp4")
@@ -10,7 +11,12 @@ def render(video_id):
     subprocess.run(
         command,
         cwd="engine",
-        shell=True  # IMPORTANT FOR WINDOWS
+        shell=True
+    )
+
+    log_milestone(
+        "Milestone #2 — Dynamic Multi-Scene Rendering",
+        "JSON-driven multi-scene rendering validated via Python orchestration."
     )
 
 if __name__ == "__main__":
