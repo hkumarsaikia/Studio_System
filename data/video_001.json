@@ -1,12 +1,11 @@
 {
-  "title": "Test Video",
-  "template": "shorts",
+  "title": "System Test",
   "fps": 30,
   "width": 1080,
   "height": 1920,
   "scenes": [
     {
-      "text": "Why Is Everything Getting More Expensive?",
+      "text": "Why Do Prices Rise?",
       "audio": "scene1.mp3",
       "duration": 300
     },
