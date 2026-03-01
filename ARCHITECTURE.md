@@ -24,3 +24,13 @@ JSX → Bundle → Headless Chrome → Static Assets → Audio → Encoding → 
 This confirms the foundational rendering system is operational.
 
 Next Phase: Multi-scene dynamic architecture.
+
+# Studio_System Architecture
+
+engine/           → Remotion rendering system
+automation/       → Python automation scripts
+data/             → Inputs / configs
+docs/engineering/ → Archived engineering logs
+output/           → Render outputs (ignored)
+presets/          → Design presets
+venv/             → Python environment (ignored)

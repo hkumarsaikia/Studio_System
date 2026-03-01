@@ -26,3 +26,5 @@ Thumbs.db
 
 # Logs
 engineering.log
+
+docs/engineering/*.log
