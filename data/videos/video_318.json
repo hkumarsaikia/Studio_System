@@ -1,0 +1,248 @@
+{
+  "id": "video_318",
+  "title": "Why Trust in Institutions Declines",
+  "template": "explainer",
+  "fps": 30,
+  "width": 1080,
+  "height": 1920,
+  "category": "POWER & INSTITUTIONS",
+  "accentColor": "#a78bfa",
+  "scenes": [
+    {
+      "text": "Why Trust in Institutions Declines",
+      "subtext": "A systems explainer in 2 minutes.",
+      "duration": 300,
+      "visual": "crowd",
+      "category": "POWER & INSTITUTIONS",
+      "accentColor": "#a78bfa",
+      "assetTags": [
+        "gavel",
+        "law",
+        "city_street",
+        "network",
+        "crowd_group_8"
+      ],
+      "crowdCount": 16
+    },
+    {
+      "text": "Hook",
+      "subtext": "Why this matters in daily life: Why Trust in Institutions Declines",
+      "duration": 300,
+      "visual": "icons",
+      "category": "POWER & INSTITUTIONS",
+      "accentColor": "#a78bfa",
+      "assetTags": [
+        "gavel",
+        "law",
+        "city_street",
+        "network",
+        "crowd_group_8"
+      ],
+      "icons": [
+        "gavel",
+        "law",
+        "city_street",
+        "bank",
+        "factory",
+        "home"
+      ]
+    },
+    {
+      "text": "System boundary",
+      "subtext": "System boundary for topic: Why Trust in Institutions Declines",
+      "duration": 300,
+      "visual": "network",
+      "category": "POWER & INSTITUTIONS",
+      "accentColor": "#a78bfa",
+      "assetTags": [
+        "gavel",
+        "law",
+        "city_street",
+        "network",
+        "crowd_group_8"
+      ],
+      "networkNodes": [
+        "State",
+        "Market",
+        "Labor",
+        "Capital",
+        "Public"
+      ]
+    },
+    {
+      "text": "Cause layer 1",
+      "subtext": "Cause layer 1 for topic: Why Trust in Institutions Declines",
+      "duration": 300,
+      "visual": "bars",
+      "category": "POWER & INSTITUTIONS",
+      "accentColor": "#a78bfa",
+      "assetTags": [
+        "gavel",
+        "law",
+        "city_street",
+        "network",
+        "crowd_group_8"
+      ],
+      "barValues": [
+        25,
+        33,
+        43,
+        54,
+        65
+      ]
+    },
+    {
+      "text": "Cause layer 2",
+      "subtext": "Cause layer 2 for topic: Why Trust in Institutions Declines",
+      "duration": 300,
+      "visual": "flow",
+      "category": "POWER & INSTITUTIONS",
+      "accentColor": "#a78bfa",
+      "assetTags": [
+        "gavel",
+        "law",
+        "city_street",
+        "network",
+        "crowd_group_8"
+      ],
+      "flowLabels": [
+        "Trigger",
+        "Mechanism",
+        "Outcome"
+      ]
+    },
+    {
+      "text": "Cause layer 3",
+      "subtext": "Cause layer 3 for topic: Why Trust in Institutions Declines",
+      "duration": 300,
+      "visual": "network",
+      "category": "POWER & INSTITUTIONS",
+      "accentColor": "#a78bfa",
+      "assetTags": [
+        "gavel",
+        "law",
+        "city_street",
+        "network",
+        "crowd_group_8"
+      ],
+      "networkNodes": [
+        "Policy",
+        "Price",
+        "Behavior",
+        "Risk",
+        "Feedback"
+      ]
+    },
+    {
+      "text": "Data lens",
+      "subtext": "Data lens for topic: Why Trust in Institutions Declines",
+      "duration": 300,
+      "visual": "bars",
+      "category": "POWER & INSTITUTIONS",
+      "accentColor": "#a78bfa",
+      "assetTags": [
+        "gavel",
+        "law",
+        "city_street",
+        "network",
+        "crowd_group_8"
+      ],
+      "barValues": [
+        28,
+        36,
+        46,
+        57,
+        68
+      ]
+    },
+    {
+      "text": "Real world scene",
+      "subtext": "Real world scene for topic: Why Trust in Institutions Declines",
+      "duration": 300,
+      "visual": "city",
+      "category": "POWER & INSTITUTIONS",
+      "accentColor": "#a78bfa",
+      "assetTags": [
+        "gavel",
+        "law",
+        "city_street",
+        "network",
+        "crowd_group_8"
+      ]
+    },
+    {
+      "text": "Ecology/externalities",
+      "subtext": "Ecology/externalities for topic: Why Trust in Institutions Declines",
+      "duration": 300,
+      "visual": "animals",
+      "category": "POWER & INSTITUTIONS",
+      "accentColor": "#a78bfa",
+      "assetTags": [
+        "gavel",
+        "law",
+        "city_street",
+        "network",
+        "crowd_group_8"
+      ],
+      "animals": [
+        "bird",
+        "fish",
+        "bee"
+      ]
+    },
+    {
+      "text": "Macro trend",
+      "subtext": "Macro trend for topic: Why Trust in Institutions Declines",
+      "duration": 300,
+      "visual": "landscape",
+      "category": "POWER & INSTITUTIONS",
+      "accentColor": "#a78bfa",
+      "assetTags": [
+        "gavel",
+        "law",
+        "city_street",
+        "network",
+        "crowd_group_8"
+      ]
+    },
+    {
+      "text": "Actionable takeaway",
+      "subtext": "Actionable takeaway for topic: Why Trust in Institutions Declines",
+      "duration": 300,
+      "visual": "icons",
+      "category": "POWER & INSTITUTIONS",
+      "accentColor": "#a78bfa",
+      "assetTags": [
+        "gavel",
+        "law",
+        "city_street",
+        "network",
+        "crowd_group_8"
+      ],
+      "icons": [
+        "gavel",
+        "law",
+        "city_street",
+        "bank",
+        "factory",
+        "home"
+      ]
+    },
+    {
+      "text": "Closing",
+      "subtext": "Understand systems, predict outcomes, act early.",
+      "duration": 300,
+      "visual": "crowd",
+      "category": "POWER & INSTITUTIONS",
+      "accentColor": "#a78bfa",
+      "assetTags": [
+        "gavel",
+        "law",
+        "city_street",
+        "network",
+        "crowd_group_8"
+      ],
+      "crowdCount": 16
+    }
+  ]
+}

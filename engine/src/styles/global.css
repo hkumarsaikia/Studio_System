@@ -1,4 +1,23 @@
-/*
- * FILE: global.css
- * DESCRIPTION: Global design system. Defines base CSS and fonts.
- */
+:root {
+  --bg-dark: #0f172a;
+  --text-light: #f8fafc;
+  --brand-accent: #38bdf8;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: Inter, 'Segoe UI', Roboto, sans-serif;
+  background: var(--bg-dark);
+  color: var(--text-light);
+}
+
+h1,
+h2,
+h3,
+p {
+  margin: 0;
+}

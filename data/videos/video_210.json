@@ -1,0 +1,248 @@
+{
+  "id": "video_210",
+  "title": "Why Outrage Gets Amplified",
+  "template": "explainer",
+  "fps": 30,
+  "width": 1080,
+  "height": 1920,
+  "category": "INFORMATION SYSTEMS",
+  "accentColor": "#f472b6",
+  "scenes": [
+    {
+      "text": "Why Outrage Gets Amplified",
+      "subtext": "A systems explainer in 2 minutes.",
+      "duration": 300,
+      "visual": "crowd",
+      "category": "INFORMATION SYSTEMS",
+      "accentColor": "#f472b6",
+      "assetTags": [
+        "media",
+        "cloud",
+        "ai",
+        "flow",
+        "network"
+      ],
+      "crowdCount": 12
+    },
+    {
+      "text": "Hook",
+      "subtext": "Why this matters in daily life: Why Outrage Gets Amplified",
+      "duration": 300,
+      "visual": "icons",
+      "category": "INFORMATION SYSTEMS",
+      "accentColor": "#f472b6",
+      "assetTags": [
+        "media",
+        "cloud",
+        "ai",
+        "flow",
+        "network"
+      ],
+      "icons": [
+        "media",
+        "cloud",
+        "ai",
+        "bank",
+        "factory",
+        "home"
+      ]
+    },
+    {
+      "text": "System boundary",
+      "subtext": "System boundary for topic: Why Outrage Gets Amplified",
+      "duration": 300,
+      "visual": "network",
+      "category": "INFORMATION SYSTEMS",
+      "accentColor": "#f472b6",
+      "assetTags": [
+        "media",
+        "cloud",
+        "ai",
+        "flow",
+        "network"
+      ],
+      "networkNodes": [
+        "State",
+        "Market",
+        "Labor",
+        "Capital",
+        "Public"
+      ]
+    },
+    {
+      "text": "Cause layer 1",
+      "subtext": "Cause layer 1 for topic: Why Outrage Gets Amplified",
+      "duration": 300,
+      "visual": "bars",
+      "category": "INFORMATION SYSTEMS",
+      "accentColor": "#f472b6",
+      "assetTags": [
+        "media",
+        "cloud",
+        "ai",
+        "flow",
+        "network"
+      ],
+      "barValues": [
+        25,
+        33,
+        43,
+        54,
+        65
+      ]
+    },
+    {
+      "text": "Cause layer 2",
+      "subtext": "Cause layer 2 for topic: Why Outrage Gets Amplified",
+      "duration": 300,
+      "visual": "flow",
+      "category": "INFORMATION SYSTEMS",
+      "accentColor": "#f472b6",
+      "assetTags": [
+        "media",
+        "cloud",
+        "ai",
+        "flow",
+        "network"
+      ],
+      "flowLabels": [
+        "Trigger",
+        "Mechanism",
+        "Outcome"
+      ]
+    },
+    {
+      "text": "Cause layer 3",
+      "subtext": "Cause layer 3 for topic: Why Outrage Gets Amplified",
+      "duration": 300,
+      "visual": "network",
+      "category": "INFORMATION SYSTEMS",
+      "accentColor": "#f472b6",
+      "assetTags": [
+        "media",
+        "cloud",
+        "ai",
+        "flow",
+        "network"
+      ],
+      "networkNodes": [
+        "Policy",
+        "Price",
+        "Behavior",
+        "Risk",
+        "Feedback"
+      ]
+    },
+    {
+      "text": "Data lens",
+      "subtext": "Data lens for topic: Why Outrage Gets Amplified",
+      "duration": 300,
+      "visual": "bars",
+      "category": "INFORMATION SYSTEMS",
+      "accentColor": "#f472b6",
+      "assetTags": [
+        "media",
+        "cloud",
+        "ai",
+        "flow",
+        "network"
+      ],
+      "barValues": [
+        28,
+        36,
+        46,
+        57,
+        68
+      ]
+    },
+    {
+      "text": "Real world scene",
+      "subtext": "Real world scene for topic: Why Outrage Gets Amplified",
+      "duration": 300,
+      "visual": "city",
+      "category": "INFORMATION SYSTEMS",
+      "accentColor": "#f472b6",
+      "assetTags": [
+        "media",
+        "cloud",
+        "ai",
+        "flow",
+        "network"
+      ]
+    },
+    {
+      "text": "Ecology/externalities",
+      "subtext": "Ecology/externalities for topic: Why Outrage Gets Amplified",
+      "duration": 300,
+      "visual": "animals",
+      "category": "INFORMATION SYSTEMS",
+      "accentColor": "#f472b6",
+      "assetTags": [
+        "media",
+        "cloud",
+        "ai",
+        "flow",
+        "network"
+      ],
+      "animals": [
+        "bird",
+        "fish",
+        "bee"
+      ]
+    },
+    {
+      "text": "Macro trend",
+      "subtext": "Macro trend for topic: Why Outrage Gets Amplified",
+      "duration": 300,
+      "visual": "landscape",
+      "category": "INFORMATION SYSTEMS",
+      "accentColor": "#f472b6",
+      "assetTags": [
+        "media",
+        "cloud",
+        "ai",
+        "flow",
+        "network"
+      ]
+    },
+    {
+      "text": "Actionable takeaway",
+      "subtext": "Actionable takeaway for topic: Why Outrage Gets Amplified",
+      "duration": 300,
+      "visual": "icons",
+      "category": "INFORMATION SYSTEMS",
+      "accentColor": "#f472b6",
+      "assetTags": [
+        "media",
+        "cloud",
+        "ai",
+        "flow",
+        "network"
+      ],
+      "icons": [
+        "media",
+        "cloud",
+        "ai",
+        "bank",
+        "factory",
+        "home"
+      ]
+    },
+    {
+      "text": "Closing",
+      "subtext": "Understand systems, predict outcomes, act early.",
+      "duration": 300,
+      "visual": "crowd",
+      "category": "INFORMATION SYSTEMS",
+      "accentColor": "#f472b6",
+      "assetTags": [
+        "media",
+        "cloud",
+        "ai",
+        "flow",
+        "network"
+      ],
+      "crowdCount": 12
+    }
+  ]
+}
